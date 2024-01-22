@@ -22,7 +22,7 @@ export const Home = ({ navigation }) => {
             <Button
                 title='PRODUCTOS'
                 onPress={() => {
-                    navigation.navigate('ProductNavigation');
+                    navigation.navigate('ProductsNavigation');
                 }}
                 color="purple"
             />
